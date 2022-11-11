@@ -1,6 +1,6 @@
-# SIR-Model
 # Result of file
 ![MAPPING](Image/003.png)
+### Consider 
 This is result of SIR.py file which show predictive value of information from parameters (ndays, beta, and gamma) depending on those factors, When some parameter change will be change a result of graph this  
 
 If you just use some predict, you can use this code for predict a result of occurrence
@@ -33,3 +33,7 @@ plt.xlabel('Time is start on 23 Jul to 30 Jul. (Days)',fontdict=font)
 plt.ylabel('Fraction of Population from \u03B2 :1/3 and \u03B3 :1/4',fontdict=font)
 
 ```
+# Update now
+-  ***[11/11/22]*** None
+# Bugs and problems
+-  ***[11/11/22]*** Algorithm this not great to using a Big Data because of you look on my code will know that large code which makes slowly process 
