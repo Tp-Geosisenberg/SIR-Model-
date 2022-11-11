@@ -1,5 +1,6 @@
 # Result of file
 ![MAPPING](Image/003.png)
+###### (This image is result of file SIR.py)
 ### Consider 
 This is result of SIR.py file which show predictive value of information from parameters (ndays, beta, and gamma) depending on those factors, When some parameter change will be change a result of graph this  
 
