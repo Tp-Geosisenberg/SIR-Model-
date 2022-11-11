@@ -6,6 +6,16 @@
 # Consider 
 This is result of SIR.py file which show predictive value of information from parameters (ndays, beta, and gamma) depending on those factors, When some parameter change will be change a result of graph this  
 
+# Consider about Main idea of SIR Model
+
+![MAPPING](Image/sir.png)
+###### (refer : https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html)
+![MAPPING](Image/download (1).png)
+###### (refer : https://sineadmorris.github.io/post/the-sir-model/)
+![MAPPING](Image/ode.png)
+###### (refer : https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html)
+![MAPPING](Image/004.PNG)
+###### (refer : https://www.pnas.org/doi/10.1073/pnas.2006520117)
 If you just use some predict, you can use this code for predict a result of occurrence
 ```
 ndays = 7
