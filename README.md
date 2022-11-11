@@ -1,1 +1,1 @@
-# SIR-Model-
+# SIR-Model
